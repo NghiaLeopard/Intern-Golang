@@ -1,4 +1,2 @@
 # Intern-Golang
-
-develop
-main
+.
